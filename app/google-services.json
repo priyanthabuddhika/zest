@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236306557464",
+    "firebase_url": "https://zest-a2adb.firebaseio.com",
+    "project_id": "zest-a2adb",
+    "storage_bucket": "zest-a2adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236306557464:android:bf80c21495873a7f9eb16d",
+        "android_client_info": {
+          "package_name": "com.example.zest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236306557464-ckbjco6jokjbecmferc9nfclm2n44b01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zest",
+            "certificate_hash": "71d9f6d518f323d6cf9364c9fef0c6cf192a250f"
+          }
+        },
+        {
+          "client_id": "236306557464-0ukaah1h9511umbsbskirfdj18jndu1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72HsyEIzblmeDwgmqHU2-S4XRrMAWU4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236306557464-0ukaah1h9511umbsbskirfdj18jndu1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
